@@ -1,5 +1,5 @@
 # DevOps
-Pull the repository
+Bajarse el repo
 Colocarse en la ruta del repositorio en un CMD
 Ejecutar docker-compose up -d para iniciar los servidores web
 Visualizar si están corriendo con docker ps
